@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://fastapi.tiangolo.com"><img src="../FastApi-Experiments/diagrams/craiyon_131852_Create_a_logo_with_text_called__FastApi_Experiments__inspired_by_python_FastAPI__must-removebg-preview.png" alt="FastAPI"></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://raw.githubusercontent.com/sanjumsanthosh/FastApi-Experiments/main/diagrams/craiyon_131852_Create_a_logo_with_text_called__FastApi_Experiments__inspired_by_python_FastAPI__must-removebg-preview.png" alt="FastAPI-Experiments" width="800px"></a>
 </p>
 <p align="center">
     <em>Testing out fastAPI</em>
