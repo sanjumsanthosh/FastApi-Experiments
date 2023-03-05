@@ -43,7 +43,7 @@ To get started with FastApi-Experiments, follow these steps:
 
 Or..
 
-Docker image available at https://hub.docker.com/repository/docker/sanjumsanthosh/fastapi-experiments/general
+Docker image available at https://hub.docker.com/repository/docker/sanjumsanthosh/ml-conversation-detector/general
 
 You can run the application using docker by running the following command:
 
