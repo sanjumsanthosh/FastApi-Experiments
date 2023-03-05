@@ -1,0 +1,11 @@
+version: '3.7'
+services:
+  detector:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: sanjumsanthosh/ml-conversation-detector:v2.001
+    container_name: app
+    restart: always
+    ports:
+      - 8000:80

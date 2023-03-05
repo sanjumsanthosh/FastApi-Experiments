@@ -1,0 +1,25 @@
+model:
+  files:
+    trainFile: train_processed.csv
+    validationFile: valid_processed.csv
+
+  tfidf:
+    stopWords: english
+    ngramRange: [1, 2]
+    useIdf: true
+    smoothIdf: true
+
+  logisticRegression:
+    C: 1.0
+    penalty: l2
+
+  modelOutFile: final_model.sav
+
+
+swagger:
+  title: Fake News Classifier
+  description: A simple API to classify fake news
+  version: 1.0.1
+  contact:
+      name: Sanjay
+  logoUrl: https://raw.githubusercontent.com/sanjumsanthosh/FastApi-Experiments/main/diagrams/craiyon_131852_Create_a_logo_with_text_called__FastApi_Experiments__inspired_by_python_FastAPI__must-removebg-preview.png
