@@ -2,6 +2,7 @@ model:
   files:
     trainFile: train_processed.csv
     validationFile: valid_processed.csv
+    customFile: custom_processed.csv
 
   tfidf:
     stopWords: english
