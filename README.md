@@ -48,7 +48,7 @@ Docker image available at https://hub.docker.com/repository/docker/sanjumsanthos
 You can run the application using docker by running the following command:
 
 ```bash
-docker run -p 8080:80 sanjumsanthosh/fastapi-experiments:v1.003
+docker run -p 8080:80 sanjumsanthosh/fastapi-experiments:v1.004
 ```
 
 ## Explaining the /docs endpoint
